@@ -21,7 +21,7 @@ To get started, clone the repository and install the necessary dependencies:
 
 
 ## Data Preparation
-Download the dataset from here [https://www.kaggle.com/c/dog-breed-identification/data].
+Download the dataset from here [https://www.kaggle.com/c/dog-breed-identification/data] and save files in ```Dog Vision``` directory.
 <br>
 **File descriptions**
 - ```train.zip``` - the training set, you are provided the breed for these dogs
